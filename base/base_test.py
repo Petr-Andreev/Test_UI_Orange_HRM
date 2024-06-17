@@ -7,7 +7,6 @@ from config.data import Data
 
 
 
-
 class BaseTest:
 
     data: Data

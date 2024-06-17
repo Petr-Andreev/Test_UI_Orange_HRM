@@ -12,7 +12,7 @@ last_name = fake.last_name()
 @allure.feature('Profile Functionality')
 class TestProfileFeature(BaseTest):
 
-    @allure.title("Смена ФИО провиля")
+    @allure.title("Смена ФИО профиля")
     @allure.severity("Critical")
     @pytest.mark.smoke
     def test_change_profile_fio(self):
