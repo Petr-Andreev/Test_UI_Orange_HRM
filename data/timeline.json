@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "7ce27cf31b9b",
+    "children" : [ {
+      "name" : "1-MainThread",
+      "children" : [ {
+        "name" : "Смена ФИО профиля",
+        "uid" : "ace3353607a81f39",
+        "parentUid" : "cbff4f387e76046d0c23a7c06c089370",
+        "status" : "broken",
+        "time" : {
+          "start" : 1718621995980,
+          "stop" : 1718622018072,
+          "duration" : 22092
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cbff4f387e76046d0c23a7c06c089370"
+    } ],
+    "uid" : "0199ac05718a60fe031ff163b139d0e3"
+  } ],
+  "name" : "timeline"
+}
