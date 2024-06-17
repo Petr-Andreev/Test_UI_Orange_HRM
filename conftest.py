@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 @pytest.fixture(autouse=True, scope="function")
-def driver(requests):
+def driver(request):
     options = Options()
     #options.add_argument("--headless")
     options.add_argument("--no-sandbox")
