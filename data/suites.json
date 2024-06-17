@@ -8,13 +8,13 @@
         "name" : "TestProfileFeature",
         "children" : [ {
           "name" : "Смена ФИО профиля",
-          "uid" : "ace3353607a81f39",
+          "uid" : "edbd8b06cd54b8f7",
           "parentUid" : "ecec602510fca8558358a9e53be22b2c",
-          "status" : "broken",
+          "status" : "passed",
           "time" : {
-            "start" : 1718621995980,
-            "stop" : 1718622018072,
-            "duration" : 22092
+            "start" : 1718626234121,
+            "stop" : 1718626244167,
+            "duration" : 10046
           },
           "flaky" : false,
           "newFailed" : false,
