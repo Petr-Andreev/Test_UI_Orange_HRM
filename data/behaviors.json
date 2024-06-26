@@ -4,13 +4,13 @@
     "name" : "Profile Functionality",
     "children" : [ {
       "name" : "Смена ФИО профиля",
-      "uid" : "edbd8b06cd54b8f7",
+      "uid" : "e9faeb10ade9a0a8",
       "parentUid" : "bfe6fb5a25b9d3632e34c1e8a59f2830",
       "status" : "passed",
       "time" : {
-        "start" : 1718626234121,
-        "stop" : 1718626244167,
-        "duration" : 10046
+        "start" : 1719390581928,
+        "stop" : 1719390592831,
+        "duration" : 10903
       },
       "flaky" : false,
       "newFailed" : false,

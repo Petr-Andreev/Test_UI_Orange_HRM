@@ -1,10 +1,10 @@
 [ {
-  "uid" : "edbd8b06cd54b8f7",
+  "uid" : "e9faeb10ade9a0a8",
   "name" : "Смена ФИО профиля",
   "time" : {
-    "start" : 1718626234121,
-    "stop" : 1718626244167,
-    "duration" : 10046
+    "start" : 1719390581928,
+    "stop" : 1719390592831,
+    "duration" : 10903
   },
   "status" : "passed",
   "severity" : "critical"
